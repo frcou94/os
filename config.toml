@@ -1,5 +1,4 @@
-baseURL = "username.github.io/os/"
+baseURL = "/"
 languageCode = "en-us"
 title = "OS"
 theme = "pickles"
-publishDir = "docs"
