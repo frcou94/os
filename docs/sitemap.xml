@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>username.github.io/os/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>username.github.io/os/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>username.github.io/os/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
